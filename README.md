@@ -6,7 +6,7 @@ Load your 3D model easily in a Three.js scene and enjoy Showroom mode.
 
 ## Usage
 
-Enjoy [live demo](https://sboez.github.io/3D-Models-Load/) or type `python -m SimpleHTTPServer` in your terminal and go to your favorite browser Firefox :wink:
+Enjoy [live demo](https://abdullahfoysal.github.io/HackTheVerse_Team_Hydra/) or type `python -m SimpleHTTPServer` in your terminal and go to your favorite browser Firefox :wink:
 
 ## Compatible formats
 
