@@ -21,7 +21,7 @@ async function init() {
 
 	Scene.createControls();
 
-	await Load.loadSample('assets/models/gltf/f1_car.glb');
+	await Load.loadSample('assets/models/gltf/table.glb');
 	addGUI(currentModel);
 }
 
